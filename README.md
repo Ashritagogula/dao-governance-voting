@@ -146,7 +146,7 @@ On-chain proposal metadata storage
 
 Token staking integration
 
-📚 Learning Outcome
+## Learning Outcome
 
 This project demonstrates:
 
