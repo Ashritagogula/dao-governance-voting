@@ -12,6 +12,7 @@ contract Treasury is Ownable {
 
     event FundsWithdrawn(address indexed to, uint256 amount);
 
+
     receive() external payable {}
 
     /**
