@@ -23,3 +23,4 @@ contract DAOTimelock is TimelockController {
         TimelockController(minDelay, proposers, executors, msg.sender)
     {}
 }
+
