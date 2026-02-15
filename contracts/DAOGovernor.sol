@@ -127,5 +127,4 @@ contract DAOGovernor is
     {
         return super.proposalThreshold();
     }
-
 }
